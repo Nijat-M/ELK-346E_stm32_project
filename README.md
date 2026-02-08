@@ -42,6 +42,10 @@ This is an environment monitoring and control system based on the STM32F103C8T6 
 *   **Fan:** `PB4`
 *   **Steam Generator:** `PB10`
 
+### Documentation
+
+For detailed project information, including system architecture, implementation details, testing results, and future improvements, please refer to the [Term Project Report](docs/termproject_report.md).
+
 ---
 
 ## 🇨🇳 中文
@@ -84,4 +88,8 @@ This is an environment monitoring and control system based on the STM32F103C8T6 
 *   **DHT11 传感器:** `PB9`
 *   **风扇:** `PB4`
 *   **蒸汽发生器:** `PB10`
+
+### 文档
+
+有关项目的详细信息，包括系统架构、实现细节、测试结果和未来改进，请参阅 [期末项目报告](docs/termproject_report.md)。
 
