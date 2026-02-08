@@ -1,6 +1,17 @@
 
 # STM32-based Environment Control System (基于STM32的环境控制系统)
 
+## 📸 Project Demo / 项目演示
+
+![Project Demo](images_videos/1.jpeg)
+
+### 📂 Additional Resources / 附加资源
+
+- **📹 Demo Video / 演示视频**: [Demo.mp4](images_videos/Demo.mp4)
+- **📄 Project Report / 项目报告**: [TermProject_Report.pdf](TermProject_Report.pdf)
+
+---
+
 ## 🇬🇧 English
 
 ### Project Overview
